@@ -1,1 +1,1 @@
-# number-guessing-game
+This program is a number guessing game for four digit numbers. The user tries to guess the number. If a digit is right and in correct index, then a S will be printed for each correct digit in correct location. If a digit is right but in wrong index, then a P will be printed for each correct digit in wrong location. If no digits are correct, a F will be printed. Game continues until user guesses correctly.
